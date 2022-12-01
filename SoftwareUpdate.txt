@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Fix Yolo 8.0.206 scale bug (#7821)
