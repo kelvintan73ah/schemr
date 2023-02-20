@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
