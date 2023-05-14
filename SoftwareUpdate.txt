@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Improve Docs arguments tables (#8415)
